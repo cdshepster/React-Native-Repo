@@ -1,0 +1,13 @@
+const ADDLIST = 'ADDLIST';
+const DELETELIST = 'DELETELIST';
+const ADDITEM = 'ADDITEM';
+const SETLIST = 'SETLIST';
+const DELETEITEM = 'DELETEITEM'
+
+export {
+    ADDLIST,
+    DELETELIST,
+    SETLIST,
+    ADDITEM,
+    DELETEITEM
+};

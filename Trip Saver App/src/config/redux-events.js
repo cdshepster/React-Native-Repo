@@ -1,0 +1,2 @@
+
+export const SET_CURRENT_SCREEN = "SET_CURRENT_SCREEN";
